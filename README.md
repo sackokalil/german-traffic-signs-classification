@@ -57,7 +57,7 @@ The dataset contains:
 - 43 traffic sign classes
 - training and test datasets
 
-The dataset was created for traffic sign recognition research and autonomous driving applications. :contentReference[oaicite:2]{index=2}
+The dataset was created for traffic sign recognition research and autonomous driving applications.
 ---
 
 # Dataset Notice
