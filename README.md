@@ -81,7 +81,7 @@ The following datasets were used in this project:
 - `GTSRB_Final_Training_Images.zip`
 - `GTSRB_Final_Test_Images.zip`
 
-After downloading, extract the datasets and place the folders in the project directory so that the notebook can correctly load the images.
+After downloading, extract the datasets and place the folders in the project directory(Final_Training/Images, that you need to create) so that the notebook can correctly load the images.
 
 ---
 
