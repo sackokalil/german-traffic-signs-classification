@@ -37,7 +37,7 @@ The project achieved a test accuracy of:
 95.67%
 ```
 
-which places the model close to results reported in literature benchmarks. :contentReference[oaicite:0]{index=0}
+which places the model close to results reported in literature benchmarks stated in the file Bericht.pdf.
 
 ---
 
