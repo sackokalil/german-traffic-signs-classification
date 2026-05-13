@@ -109,16 +109,6 @@ After downloading, extract the datasets and place the folders in the project dir
 ├── Aufgabenstellung_v02.pdf
 └── README.md
 ```
-
-Additional dataset folders:
-
-```text
-110m_cultural/
-images/
-ne_110m_admin_0_countries/
-shapefiles/
-```
-
 ---
 
 # Exploratory Data Analysis
