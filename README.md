@@ -120,7 +120,7 @@ The project includes extensive analysis and visualization of the dataset:
 - visualization of all 43 traffic sign classes
 - training/validation split analysis
 
-The analysis shows that some classes contain significantly fewer images than others, which may affect model generalization. :contentReference[oaicite:3]{index=3}
+The analysis shows that some classes contain significantly fewer images than others, which may affect model generalization.
 
 ---
 
@@ -146,9 +146,6 @@ The preprocessing and graph plotting utilities are implemented inside:
 ```text
 functions.py
 ```
-
-:contentReference[oaicite:4]{index=4}
-
 ---
 
 # CNN Architecture
@@ -176,7 +173,7 @@ The model uses:
 - Adam optimizer
 - Categorical Crossentropy loss
 
-The CNN architecture was specifically designed for traffic sign image classification. :contentReference[oaicite:5]{index=5}
+The CNN architecture was specifically designed for traffic sign image classification.
 
 ---
 
@@ -195,7 +192,7 @@ The training workflow includes:
 - loss visualization
 - convergence analysis
 
-The project demonstrates strong convergence between training and validation curves, indicating good generalization performance. :contentReference[oaicite:6]{index=6}
+The project demonstrates strong convergence between training and validation curves, indicating good generalization performance.
 
 ---
 
@@ -214,7 +211,7 @@ Final test accuracy:
 95.67%
 ```
 
-The confusion matrix highlights misclassified traffic sign classes and class similarities. :contentReference[oaicite:7]{index=7}
+The confusion matrix highlights misclassified traffic sign classes and class similarities.
 
 ---
 
@@ -222,7 +219,7 @@ The confusion matrix highlights misclassified traffic sign classes and class sim
 
 The project compares the achieved results with benchmark literature results from GTSRB research.
 
-The achieved accuracy is competitive with several traditional approaches and demonstrates strong CNN classification performance. :contentReference[oaicite:8]{index=8}
+The achieved accuracy is competitive with several traditional approaches and demonstrates strong CNN classification performance. 
 
 ---
 
@@ -255,13 +252,14 @@ The achieved accuracy is competitive with several traditional approaches and dem
 Kalil Sacko
 
 Master Student in Computer Science  
-Hochschule Bochum
+University of Applied Sciences Bochum(Hochschule Bochum)
 
 ---
 
 # Notes
 
 - The project was developed in the context of Computer Vision for Autonomous Driving.
+- the file Bericht.pdf highlight more details about this project.
 - Most of the workflow was implemented directly inside Jupyter Notebooks.
 - The project includes both technical implementation and scientific analysis/reporting.
 - The report compares the model performance with literature benchmarks from GTSRB-related research.
